@@ -29,7 +29,7 @@ Database Integration: Persistent storage of users, items, and bids using MySQL.
 Tech Stack
 
 
-
+    
 
 
 Backend: Java, Spring Boot
